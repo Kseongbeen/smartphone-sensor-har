@@ -8,10 +8,10 @@
 
 ## 📂 프로젝트 구조
 
-* **[SMU_AIX_스마트폰센서데이터기반모션분류_2차프로젝트.pdf](file:///c:/Users/5174k/Code/202210822/AI+X/AI+X_기초/AI+X_3/SMU_AIX_스마트폰센서데이터기반모션분류_2차프로젝트.pdf)**: 모션 분류 시스템 연구 최종 보고서
-* **[스마트폰센서데이터_탐색적데이터분석_학생용111.ipynb](file:///c:/Users/5174k/Code/202210822/AI+X/AI+X_기초/AI+X_3/스마트폰센서데이터_탐색적데이터분석_학생용111.ipynb)**: 데이터 탐색(EDA), 상관관계 시각화 및 머신러닝 학습 모델 구현 노트북
-* **[features.csv](file:///c:/Users/5174k/Code/202210822/AI+X/AI+X_기초/AI+X_3/features.csv)**: 센서 신호 필터링을 통해 획득한 563개 입력 피처 정보 리스트
-* **[fi_analysis.csv](file:///c:/Users/5174k/Code/202210822/AI+X/AI+X_기초/AI+X_3/fi_analysis.csv)**: 피처 기여도(Feature Importance) 분석 결과 테이블
+* **[SMU_AIX_스마트폰센서데이터기반모션분류_2차프로젝트.pdf](<SMU_AIX_스마트폰센서데이터기반모션분류_2차프로젝트.pdf>)**: 모션 분류 시스템 연구 최종 보고서
+* **[스마트폰센서데이터_탐색적데이터분석_학생용111.ipynb](<스마트폰센서데이터_탐색적데이터분석_학생용111.ipynb>)**: 데이터 탐색(EDA), 상관관계 시각화 및 머신러닝 학습 모델 구현 노트북
+* **[features.csv](<features.csv>)**: 센서 신호 필터링을 통해 획득한 563개 입력 피처 정보 리스트
+* **[fi_analysis.csv](<fi_analysis.csv>)**: 피처 기여도(Feature Importance) 분석 결과 테이블
 
 ---
 
