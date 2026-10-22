@@ -1,6 +1,8 @@
 # 📱 스마트폰 센서 데이터 기반 행동 분류 (Human Activity Recognition)
 
-스마트폰에 내장된 3축 가속도계(Accelerometer) 및 자이로스코프(Gyroscope) 센서의 시간-주파수 도메인 피처(563개)를 정밀 분석하고, 분류 기계학습 모델(Random Forest 등)을 구축하여 사용자의 6가지 물리적 행동(걷기, 계단 오르기/내려가기, 앉기, 서기, 눕기)을 예측 분류하는 머신러닝 솔루션입니다.
+스마트폰에 내장된 3축 가속도계(Accelerometer) 및 자이로스코프(Gyroscope) 센서의 시간-주파수 도메인 피처(563개)를 정밀 분석하고, 6가지 행동(걷기, 계단 오르기/내려가기, 앉기, 서기, 눕기)을 구분하는 데 어떤 특징이 중요한지 EDA와 Random Forest 특징 중요도로 해석한 수업 프로젝트입니다. 모델 성능 최적화보다 데이터 탐색과 해석이 중심이며, 정확도 수치는 다루지 않았습니다.
+
+**데이터 출처:** UCI Machine Learning Repository — [Human Activity Recognition Using Smartphones](https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones) (수업 제공본 5,881행 × 563열)
 
 본 프로젝트는 **AI+X 기초 2차 프로젝트**로 수행되었습니다.
 
